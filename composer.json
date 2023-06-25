@@ -1,0 +1,21 @@
+{
+    "name": "xiaoxian/think-auth",
+    "description": "个人使用的auth类",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "xiaoxian",
+            "email": "26327100@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\xiaoxian\\": "src/"
+        }
+    }
+}
